@@ -1,3 +1,9 @@
 print("Hello World");
 print(hello everybody)
+
 print(hello)
+
+print(hell) 
+отправка в удаленный репозиторий
++конфлик
+
